@@ -1,9 +1,6 @@
 # Evil-Hangman
-Advanced C implementation of Evil Hangman using AVL trees and custom data structures
 
-Evil Hangman
-
-A C implementation of the classic "Evil Hangman" game that uses advanced data structures to make the game as difficult as possible for the player.
+An advanced C implementation of the classic "Evil Hangman" game that uses AVL trees and advanced data structures to make the game as difficult as possible for the player.
 
 What is Evil Hangman?
 Unlike traditional Hangman, Evil Hangman never commits to a specific word until forced to. Instead, it dynamically maintains the largest possible family of words that match the current game state, making it nearly impossible to win!
